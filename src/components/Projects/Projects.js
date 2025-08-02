@@ -27,7 +27,7 @@ function Projects() {
               isBlog={false}
               title="Powerloop"
               description="Powerloop is a platform for online coding classes, built with Spring Boot, React, and a MySQL database. It includes features that allow students to learn and resolve their doubts in real-time."
-              ghLink="https://github.com/soumyajit4419/Chatify"
+              ghLink="https://github.com/gaman9158/Powerloop-Acadamy"
               demoLink="https://chatify-49.web.app/"
             />
           </Col>
