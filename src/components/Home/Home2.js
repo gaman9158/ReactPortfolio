@@ -19,7 +19,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            I'm Software Developer at Alfalabs Technologies | Over 1.5 Years of Experience | Strength is Java | Passionate about Coding | Machine Learning Enthusiast.
+            I'm Software Developer at Alfalabs Technologies | Over 2 Years of Experience | Strength is Java | Passionate about Coding | Machine Learning Enthusiast.
               <br />
               <br />I am fluent in classics like
               <i>
@@ -40,8 +40,8 @@ function Home2() {
               <br />
                 
 
-              Currently contributing to an open-source project built with  {" "}
-               <b className="purple">Spring Boot and React</b> for online classes
+              Currently Developing an eCommerce project built with  {" "}
+               <b className="purple">Spring Boot and React</b>
               {/* <i>
                 <b className="purple">
                   {" "}
@@ -77,7 +77,7 @@ function Home2() {
                   <AiFillGithub />
                 </a>
               </li>
-              <li className="social-icons">
+              {/* <li className="social-icons">
                 <a
                   href="https://twitter.com/Soumyajit4419"
                   target="_blank"
@@ -86,7 +86,7 @@ function Home2() {
                 >
                   <AiOutlineTwitter />
                 </a>
-              </li>
+              </li> */}
               <li className="social-icons">
                 <a
                   href="https://www.linkedin.com/in/amangupta9158/"
